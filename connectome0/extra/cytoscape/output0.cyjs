@@ -1,0 +1,2584 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.9.1",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "input0.txt",
+    "name" : "input0.txt",
+    "SUID" : 1766,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1893",
+        "shared_name" : "Mi1",
+        "name" : "Mi1",
+        "SUID" : 1893,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -100.0,
+        "y" : -175.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1891",
+        "shared_name" : "T4a",
+        "name" : "T4a",
+        "SUID" : 1891,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 0.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1889",
+        "shared_name" : "Tm3",
+        "name" : "Tm3",
+        "SUID" : 1889,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 75.0,
+        "y" : -225.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1887",
+        "shared_name" : "CT1",
+        "name" : "CT1",
+        "SUID" : 1887,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 500.0,
+        "y" : -250.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1885",
+        "shared_name" : "Mi9",
+        "name" : "Mi9",
+        "SUID" : 1885,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 25.0,
+        "y" : -175.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1883",
+        "shared_name" : "Mi4",
+        "name" : "Mi4",
+        "SUID" : 1883,
+        "selected" : true
+      },
+      "position" : {
+        "x" : -50.0,
+        "y" : -225.0
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "1881",
+        "shared_name" : "TmY15",
+        "name" : "TmY15",
+        "SUID" : 1881,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 350.0,
+        "y" : -250.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1879",
+        "shared_name" : "T4b",
+        "name" : "T4b",
+        "SUID" : 1879,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 250.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1877",
+        "shared_name" : "T4c",
+        "name" : "T4c",
+        "SUID" : 1877,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 500.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1875",
+        "shared_name" : "T4d",
+        "name" : "T4d",
+        "SUID" : 1875,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 750.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1873",
+        "shared_name" : "Tm9",
+        "name" : "Tm9",
+        "SUID" : 1873,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 950.0,
+        "y" : -175.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1871",
+        "shared_name" : "T5a",
+        "name" : "T5a",
+        "SUID" : 1871,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 100.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1869",
+        "shared_name" : "Tm2",
+        "name" : "Tm2",
+        "SUID" : 1869,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 825.0,
+        "y" : -175.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1867",
+        "shared_name" : "Tm1",
+        "name" : "Tm1",
+        "SUID" : 1867,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 775.0,
+        "y" : -225.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1865",
+        "shared_name" : "Tm4",
+        "name" : "Tm4",
+        "SUID" : 1865,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 900.0,
+        "y" : -225.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1863",
+        "shared_name" : "T5b",
+        "name" : "T5b",
+        "SUID" : 1863,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 350.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1861",
+        "shared_name" : "T5c",
+        "name" : "T5c",
+        "SUID" : 1861,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 600.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1859",
+        "shared_name" : "T5d",
+        "name" : "T5d",
+        "SUID" : 1859,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 850.0,
+        "y" : 0.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1857",
+        "shared_name" : "TmY20",
+        "name" : "TmY20",
+        "SUID" : 1857,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -150.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1855",
+        "shared_name" : "HS",
+        "name" : "HS",
+        "SUID" : 1855,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -200.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1853",
+        "shared_name" : "LPi1-2",
+        "name" : "LPi1-2",
+        "SUID" : 1853,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -250.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1851",
+        "shared_name" : "LLPC1",
+        "name" : "LLPC1",
+        "SUID" : 1851,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -100.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1849",
+        "shared_name" : "Y11",
+        "name" : "Y11",
+        "SUID" : 1849,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 275.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1847",
+        "shared_name" : "DCH",
+        "name" : "DCH",
+        "SUID" : 1847,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -300.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1845",
+        "shared_name" : "LPLC2",
+        "name" : "LPLC2",
+        "SUID" : 1845,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 425.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1843",
+        "shared_name" : "Y12",
+        "name" : "Y12",
+        "SUID" : 1843,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 575.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1841",
+        "shared_name" : "TmY14",
+        "name" : "TmY14",
+        "SUID" : 1841,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -25.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1839",
+        "shared_name" : "TmY16",
+        "name" : "TmY16",
+        "SUID" : 1839,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -250.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1837",
+        "shared_name" : "LPT/LPi2a",
+        "name" : "LPT/LPi2a",
+        "SUID" : 1837,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 100.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1835",
+        "shared_name" : "LPi2-1",
+        "name" : "LPi2-1",
+        "SUID" : 1835,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 150.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1833",
+        "shared_name" : "H2",
+        "name" : "H2",
+        "SUID" : 1833,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 250.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1831",
+        "shared_name" : "LPC1",
+        "name" : "LPC1",
+        "SUID" : 1831,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 300.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1829",
+        "shared_name" : "Am1",
+        "name" : "Am1",
+        "SUID" : 1829,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 150.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1827",
+        "shared_name" : "LPi2b",
+        "name" : "LPi2b",
+        "SUID" : 1827,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 250.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1825",
+        "shared_name" : "LPLC1",
+        "name" : "LPLC1",
+        "SUID" : 1825,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 125.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1823",
+        "shared_name" : "VS",
+        "name" : "VS",
+        "SUID" : 1823,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1175.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1821",
+        "shared_name" : "LPi3-4",
+        "name" : "LPi3-4",
+        "SUID" : 1821,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 575.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1819",
+        "shared_name" : "LLPC2",
+        "name" : "LLPC2",
+        "SUID" : 1819,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 725.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1817",
+        "shared_name" : "LPi34-12",
+        "name" : "LPi34-12",
+        "SUID" : 1817,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 725.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1815",
+        "shared_name" : "LPC2",
+        "name" : "LPC2",
+        "SUID" : 1815,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 625.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1813",
+        "shared_name" : "Tlp13",
+        "name" : "Tlp13",
+        "SUID" : 1813,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 675.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1811",
+        "shared_name" : "TmY4",
+        "name" : "TmY4",
+        "SUID" : 1811,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 875.0,
+        "y" : 425.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1809",
+        "shared_name" : "LPi3a",
+        "name" : "LPi3a",
+        "SUID" : 1809,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 675.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1807",
+        "shared_name" : "Tlp14",
+        "name" : "Tlp14",
+        "SUID" : 1807,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 775.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1805",
+        "shared_name" : "Y3",
+        "name" : "Y3",
+        "SUID" : 1805,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 575.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1803",
+        "shared_name" : "LPi4-3",
+        "name" : "LPi4-3",
+        "SUID" : 1803,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1025.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1801",
+        "shared_name" : "LLPC3",
+        "name" : "LLPC3",
+        "SUID" : 1801,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 975.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1799",
+        "shared_name" : "Tlp12",
+        "name" : "Tlp12",
+        "SUID" : 1799,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1125.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1797",
+        "shared_name" : "Tlp11",
+        "name" : "Tlp11",
+        "SUID" : 1797,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -150.0,
+        "y" : 290.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1795",
+        "shared_name" : "LPT3b",
+        "name" : "LPT3b",
+        "SUID" : 1795,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 775.0,
+        "y" : 170.0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1793",
+        "shared_name" : "TmY5a",
+        "name" : "TmY5a",
+        "SUID" : 1793,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1075.0,
+        "y" : 230.0
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "2147",
+        "source" : "1893",
+        "target" : "1891",
+        "shared_name" : "Mi1 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "Mi1 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 50,
+        "SUID" : 2147,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2145",
+        "source" : "1893",
+        "target" : "1879",
+        "shared_name" : "Mi1 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "Mi1 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 43,
+        "SUID" : 2145,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2143",
+        "source" : "1893",
+        "target" : "1877",
+        "shared_name" : "Mi1 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "Mi1 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 55,
+        "SUID" : 2143,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2141",
+        "source" : "1893",
+        "target" : "1875",
+        "shared_name" : "Mi1 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "Mi1 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 51,
+        "SUID" : 2141,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2139",
+        "source" : "1891",
+        "target" : "1857",
+        "shared_name" : "T4a (LOP) TmY20",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) TmY20",
+        "interaction" : "LOP",
+        "weight" : 55,
+        "SUID" : 2139,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2137",
+        "source" : "1891",
+        "target" : "1855",
+        "shared_name" : "T4a (LOP) HS",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) HS",
+        "interaction" : "LOP",
+        "weight" : 45,
+        "SUID" : 2137,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2135",
+        "source" : "1891",
+        "target" : "1853",
+        "shared_name" : "T4a (LOP) LPi1-2",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) LPi1-2",
+        "interaction" : "LOP",
+        "weight" : 43,
+        "SUID" : 2135,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2133",
+        "source" : "1891",
+        "target" : "1851",
+        "shared_name" : "T4a (LOP) LLPC1",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) LLPC1",
+        "interaction" : "LOP",
+        "weight" : 32,
+        "SUID" : 2133,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2131",
+        "source" : "1891",
+        "target" : "1849",
+        "shared_name" : "T4a (LOP) Y11",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) Y11",
+        "interaction" : "LOP",
+        "weight" : 31,
+        "SUID" : 2131,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2129",
+        "source" : "1891",
+        "target" : "1847",
+        "shared_name" : "T4a (LOP) DCH",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) DCH",
+        "interaction" : "LOP",
+        "weight" : 18,
+        "SUID" : 2129,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2127",
+        "source" : "1891",
+        "target" : "1845",
+        "shared_name" : "T4a (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 18,
+        "SUID" : 2127,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2125",
+        "source" : "1891",
+        "target" : "1843",
+        "shared_name" : "T4a (LOP) Y12",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) Y12",
+        "interaction" : "LOP",
+        "weight" : 12,
+        "SUID" : 2125,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2123",
+        "source" : "1891",
+        "target" : "1841",
+        "shared_name" : "T4a (LOP) TmY14",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) TmY14",
+        "interaction" : "LOP",
+        "weight" : 9,
+        "SUID" : 2123,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2121",
+        "source" : "1891",
+        "target" : "1839",
+        "shared_name" : "T4a (LOP) TmY16",
+        "shared_interaction" : "LOP",
+        "name" : "T4a (LOP) TmY16",
+        "interaction" : "LOP",
+        "weight" : 9,
+        "SUID" : 2121,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2119",
+        "source" : "1889",
+        "target" : "1891",
+        "shared_name" : "Tm3 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "Tm3 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 22,
+        "SUID" : 2119,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2117",
+        "source" : "1889",
+        "target" : "1879",
+        "shared_name" : "Tm3 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "Tm3 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 21,
+        "SUID" : 2117,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2115",
+        "source" : "1889",
+        "target" : "1877",
+        "shared_name" : "Tm3 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "Tm3 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 22,
+        "SUID" : 2115,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2113",
+        "source" : "1889",
+        "target" : "1875",
+        "shared_name" : "Tm3 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "Tm3 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 24,
+        "SUID" : 2113,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2111",
+        "source" : "1887",
+        "target" : "1891",
+        "shared_name" : "CT1 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "CT1 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 19,
+        "SUID" : 2111,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2109",
+        "source" : "1887",
+        "target" : "1879",
+        "shared_name" : "CT1 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "CT1 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 14,
+        "SUID" : 2109,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2107",
+        "source" : "1887",
+        "target" : "1877",
+        "shared_name" : "CT1 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "CT1 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 15,
+        "SUID" : 2107,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2105",
+        "source" : "1887",
+        "target" : "1875",
+        "shared_name" : "CT1 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "CT1 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 17,
+        "SUID" : 2105,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2103",
+        "source" : "1887",
+        "target" : "1871",
+        "shared_name" : "CT1 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "CT1 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 32,
+        "SUID" : 2103,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2101",
+        "source" : "1887",
+        "target" : "1863",
+        "shared_name" : "CT1 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "CT1 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 28,
+        "SUID" : 2101,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2099",
+        "source" : "1887",
+        "target" : "1861",
+        "shared_name" : "CT1 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "CT1 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 32,
+        "SUID" : 2099,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2097",
+        "source" : "1887",
+        "target" : "1859",
+        "shared_name" : "CT1 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "CT1 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 30,
+        "SUID" : 2097,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2095",
+        "source" : "1885",
+        "target" : "1891",
+        "shared_name" : "Mi9 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "Mi9 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 18,
+        "SUID" : 2095,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2093",
+        "source" : "1885",
+        "target" : "1879",
+        "shared_name" : "Mi9 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "Mi9 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 29,
+        "SUID" : 2093,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2091",
+        "source" : "1885",
+        "target" : "1877",
+        "shared_name" : "Mi9 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "Mi9 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 19,
+        "SUID" : 2091,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2089",
+        "source" : "1885",
+        "target" : "1875",
+        "shared_name" : "Mi9 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "Mi9 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 26,
+        "SUID" : 2089,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2087",
+        "source" : "1883",
+        "target" : "1891",
+        "shared_name" : "Mi4 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "Mi4 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 12,
+        "SUID" : 2087,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2085",
+        "source" : "1883",
+        "target" : "1879",
+        "shared_name" : "Mi4 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "Mi4 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 11,
+        "SUID" : 2085,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2083",
+        "source" : "1883",
+        "target" : "1877",
+        "shared_name" : "Mi4 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "Mi4 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 9,
+        "SUID" : 2083,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2081",
+        "source" : "1883",
+        "target" : "1875",
+        "shared_name" : "Mi4 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "Mi4 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 9,
+        "SUID" : 2081,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2079",
+        "source" : "1881",
+        "target" : "1891",
+        "shared_name" : "TmY15 (ME) T4a",
+        "shared_interaction" : "ME",
+        "name" : "TmY15 (ME) T4a",
+        "interaction" : "ME",
+        "weight" : 8,
+        "SUID" : 2079,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2077",
+        "source" : "1881",
+        "target" : "1879",
+        "shared_name" : "TmY15 (ME) T4b",
+        "shared_interaction" : "ME",
+        "name" : "TmY15 (ME) T4b",
+        "interaction" : "ME",
+        "weight" : 9,
+        "SUID" : 2077,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2075",
+        "source" : "1881",
+        "target" : "1877",
+        "shared_name" : "TmY15 (ME) T4c",
+        "shared_interaction" : "ME",
+        "name" : "TmY15 (ME) T4c",
+        "interaction" : "ME",
+        "weight" : 9,
+        "SUID" : 2075,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2073",
+        "source" : "1881",
+        "target" : "1875",
+        "shared_name" : "TmY15 (ME) T4d",
+        "shared_interaction" : "ME",
+        "name" : "TmY15 (ME) T4d",
+        "interaction" : "ME",
+        "weight" : 10,
+        "SUID" : 2073,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2071",
+        "source" : "1881",
+        "target" : "1871",
+        "shared_name" : "TmY15 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "TmY15 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 7,
+        "SUID" : 2071,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2069",
+        "source" : "1881",
+        "target" : "1863",
+        "shared_name" : "TmY15 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "TmY15 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 7,
+        "SUID" : 2069,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2067",
+        "source" : "1881",
+        "target" : "1861",
+        "shared_name" : "TmY15 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "TmY15 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 9,
+        "SUID" : 2067,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2065",
+        "source" : "1881",
+        "target" : "1859",
+        "shared_name" : "TmY15 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "TmY15 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 7,
+        "SUID" : 2065,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2063",
+        "source" : "1879",
+        "target" : "1837",
+        "shared_name" : "T4b (LOP) LPT/LPi2a",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPT/LPi2a",
+        "interaction" : "LOP",
+        "weight" : 59,
+        "SUID" : 2063,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2061",
+        "source" : "1879",
+        "target" : "1835",
+        "shared_name" : "T4b (LOP) LPi2-1",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPi2-1",
+        "interaction" : "LOP",
+        "weight" : 39,
+        "SUID" : 2061,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2059",
+        "source" : "1879",
+        "target" : "1833",
+        "shared_name" : "T4b (LOP) H2",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) H2",
+        "interaction" : "LOP",
+        "weight" : 23,
+        "SUID" : 2059,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2057",
+        "source" : "1879",
+        "target" : "1831",
+        "shared_name" : "T4b (LOP) LPC1",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPC1",
+        "interaction" : "LOP",
+        "weight" : 21,
+        "SUID" : 2057,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2055",
+        "source" : "1879",
+        "target" : "1845",
+        "shared_name" : "T4b (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 21,
+        "SUID" : 2055,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2053",
+        "source" : "1879",
+        "target" : "1829",
+        "shared_name" : "T4b (LOP) Am1",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) Am1",
+        "interaction" : "LOP",
+        "weight" : 18,
+        "SUID" : 2053,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2051",
+        "source" : "1879",
+        "target" : "1827",
+        "shared_name" : "T4b (LOP) LPi2b",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPi2b",
+        "interaction" : "LOP",
+        "weight" : 14,
+        "SUID" : 2051,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2049",
+        "source" : "1879",
+        "target" : "1825",
+        "shared_name" : "T4b (LOP) LPLC1",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) LPLC1",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 2049,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2047",
+        "source" : "1879",
+        "target" : "1823",
+        "shared_name" : "T4b (LOP) VS",
+        "shared_interaction" : "LOP",
+        "name" : "T4b (LOP) VS",
+        "interaction" : "LOP",
+        "weight" : 8,
+        "SUID" : 2047,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2045",
+        "source" : "1877",
+        "target" : "1821",
+        "shared_name" : "T4c (LOP) LPi3-4",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LPi3-4",
+        "interaction" : "LOP",
+        "weight" : 49,
+        "SUID" : 2045,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2043",
+        "source" : "1877",
+        "target" : "1819",
+        "shared_name" : "T4c (LOP) LLPC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LLPC2",
+        "interaction" : "LOP",
+        "weight" : 31,
+        "SUID" : 2043,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2041",
+        "source" : "1877",
+        "target" : "1817",
+        "shared_name" : "T4c (LOP) LPi34-12",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LPi34-12",
+        "interaction" : "LOP",
+        "weight" : 26,
+        "SUID" : 2041,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2039",
+        "source" : "1877",
+        "target" : "1849",
+        "shared_name" : "T4c (LOP) Y11",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) Y11",
+        "interaction" : "LOP",
+        "weight" : 26,
+        "SUID" : 2039,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2037",
+        "source" : "1877",
+        "target" : "1815",
+        "shared_name" : "T4c (LOP) LPC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LPC2",
+        "interaction" : "LOP",
+        "weight" : 23,
+        "SUID" : 2037,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2035",
+        "source" : "1877",
+        "target" : "1813",
+        "shared_name" : "T4c (LOP) Tlp13",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) Tlp13",
+        "interaction" : "LOP",
+        "weight" : 23,
+        "SUID" : 2035,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2033",
+        "source" : "1877",
+        "target" : "1811",
+        "shared_name" : "T4c (LOP) TmY4",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) TmY4",
+        "interaction" : "LOP",
+        "weight" : 16,
+        "SUID" : 2033,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2031",
+        "source" : "1877",
+        "target" : "1845",
+        "shared_name" : "T4c (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 14,
+        "SUID" : 2031,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2029",
+        "source" : "1877",
+        "target" : "1809",
+        "shared_name" : "T4c (LOP) LPi3a",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) LPi3a",
+        "interaction" : "LOP",
+        "weight" : 12,
+        "SUID" : 2029,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2027",
+        "source" : "1877",
+        "target" : "1807",
+        "shared_name" : "T4c (LOP) Tlp14",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) Tlp14",
+        "interaction" : "LOP",
+        "weight" : 12,
+        "SUID" : 2027,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2025",
+        "source" : "1877",
+        "target" : "1805",
+        "shared_name" : "T4c (LOP) Y3",
+        "shared_interaction" : "LOP",
+        "name" : "T4c (LOP) Y3",
+        "interaction" : "LOP",
+        "weight" : 8,
+        "SUID" : 2025,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2023",
+        "source" : "1875",
+        "target" : "1823",
+        "shared_name" : "T4d (LOP) VS",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) VS",
+        "interaction" : "LOP",
+        "weight" : 61,
+        "SUID" : 2023,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2021",
+        "source" : "1875",
+        "target" : "1803",
+        "shared_name" : "T4d (LOP) LPi4-3",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) LPi4-3",
+        "interaction" : "LOP",
+        "weight" : 49,
+        "SUID" : 2021,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2019",
+        "source" : "1875",
+        "target" : "1801",
+        "shared_name" : "T4d (LOP) LLPC3",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) LLPC3",
+        "interaction" : "LOP",
+        "weight" : 29,
+        "SUID" : 2019,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2017",
+        "source" : "1875",
+        "target" : "1817",
+        "shared_name" : "T4d (LOP) LPi34-12",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) LPi34-12",
+        "interaction" : "LOP",
+        "weight" : 21,
+        "SUID" : 2017,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2015",
+        "source" : "1875",
+        "target" : "1799",
+        "shared_name" : "T4d (LOP) Tlp12",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) Tlp12",
+        "interaction" : "LOP",
+        "weight" : 19,
+        "SUID" : 2015,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2013",
+        "source" : "1875",
+        "target" : "1845",
+        "shared_name" : "T4d (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 2013,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2011",
+        "source" : "1875",
+        "target" : "1811",
+        "shared_name" : "T4d (LOP) TmY4",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) TmY4",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 2011,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2009",
+        "source" : "1875",
+        "target" : "1843",
+        "shared_name" : "T4d (LOP) Y12",
+        "shared_interaction" : "LOP",
+        "name" : "T4d (LOP) Y12",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 2009,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2007",
+        "source" : "1873",
+        "target" : "1871",
+        "shared_name" : "Tm9 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "Tm9 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 59,
+        "SUID" : 2007,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2005",
+        "source" : "1873",
+        "target" : "1863",
+        "shared_name" : "Tm9 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "Tm9 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 62,
+        "SUID" : 2005,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2003",
+        "source" : "1873",
+        "target" : "1861",
+        "shared_name" : "Tm9 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "Tm9 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 64,
+        "SUID" : 2003,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2001",
+        "source" : "1873",
+        "target" : "1859",
+        "shared_name" : "Tm9 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "Tm9 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 61,
+        "SUID" : 2001,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1999",
+        "source" : "1871",
+        "target" : "1857",
+        "shared_name" : "T5a (LOP) TmY20",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) TmY20",
+        "interaction" : "LOP",
+        "weight" : 67,
+        "SUID" : 1999,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1997",
+        "source" : "1871",
+        "target" : "1855",
+        "shared_name" : "T5a (LOP) HS",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) HS",
+        "interaction" : "LOP",
+        "weight" : 54,
+        "SUID" : 1997,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1995",
+        "source" : "1871",
+        "target" : "1853",
+        "shared_name" : "T5a (LOP) LPi1-2",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) LPi1-2",
+        "interaction" : "LOP",
+        "weight" : 44,
+        "SUID" : 1995,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1993",
+        "source" : "1871",
+        "target" : "1849",
+        "shared_name" : "T5a (LOP) Y11",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) Y11",
+        "interaction" : "LOP",
+        "weight" : 36,
+        "SUID" : 1993,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1991",
+        "source" : "1871",
+        "target" : "1851",
+        "shared_name" : "T5a (LOP) LLPC1",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) LLPC1",
+        "interaction" : "LOP",
+        "weight" : 32,
+        "SUID" : 1991,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1989",
+        "source" : "1871",
+        "target" : "1847",
+        "shared_name" : "T5a (LOP) DCH",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) DCH",
+        "interaction" : "LOP",
+        "weight" : 24,
+        "SUID" : 1989,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1987",
+        "source" : "1871",
+        "target" : "1845",
+        "shared_name" : "T5a (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 21,
+        "SUID" : 1987,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1985",
+        "source" : "1871",
+        "target" : "1841",
+        "shared_name" : "T5a (LOP) TmY14",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) TmY14",
+        "interaction" : "LOP",
+        "weight" : 16,
+        "SUID" : 1985,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1983",
+        "source" : "1871",
+        "target" : "1843",
+        "shared_name" : "T5a (LOP) Y12",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) Y12",
+        "interaction" : "LOP",
+        "weight" : 15,
+        "SUID" : 1983,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1981",
+        "source" : "1871",
+        "target" : "1797",
+        "shared_name" : "T5a (LOP) Tlp11",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) Tlp11",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 1981,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1979",
+        "source" : "1871",
+        "target" : "1839",
+        "shared_name" : "T5a (LOP) TmY16",
+        "shared_interaction" : "LOP",
+        "name" : "T5a (LOP) TmY16",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 1979,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1977",
+        "source" : "1869",
+        "target" : "1871",
+        "shared_name" : "Tm2 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "Tm2 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 35,
+        "SUID" : 1977,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1975",
+        "source" : "1869",
+        "target" : "1863",
+        "shared_name" : "Tm2 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "Tm2 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 37,
+        "SUID" : 1975,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1973",
+        "source" : "1869",
+        "target" : "1861",
+        "shared_name" : "Tm2 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "Tm2 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 35,
+        "SUID" : 1973,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1971",
+        "source" : "1869",
+        "target" : "1859",
+        "shared_name" : "Tm2 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "Tm2 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 30,
+        "SUID" : 1971,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1969",
+        "source" : "1867",
+        "target" : "1871",
+        "shared_name" : "Tm1 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "Tm1 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 25,
+        "SUID" : 1969,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1967",
+        "source" : "1867",
+        "target" : "1863",
+        "shared_name" : "Tm1 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "Tm1 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 27,
+        "SUID" : 1967,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1965",
+        "source" : "1867",
+        "target" : "1861",
+        "shared_name" : "Tm1 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "Tm1 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 28,
+        "SUID" : 1965,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1963",
+        "source" : "1867",
+        "target" : "1859",
+        "shared_name" : "Tm1 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "Tm1 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 28,
+        "SUID" : 1963,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1961",
+        "source" : "1865",
+        "target" : "1871",
+        "shared_name" : "Tm4 (LO) T5a",
+        "shared_interaction" : "LO",
+        "name" : "Tm4 (LO) T5a",
+        "interaction" : "LO",
+        "weight" : 18,
+        "SUID" : 1961,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1959",
+        "source" : "1865",
+        "target" : "1863",
+        "shared_name" : "Tm4 (LO) T5b",
+        "shared_interaction" : "LO",
+        "name" : "Tm4 (LO) T5b",
+        "interaction" : "LO",
+        "weight" : 15,
+        "SUID" : 1959,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1957",
+        "source" : "1865",
+        "target" : "1861",
+        "shared_name" : "Tm4 (LO) T5c",
+        "shared_interaction" : "LO",
+        "name" : "Tm4 (LO) T5c",
+        "interaction" : "LO",
+        "weight" : 21,
+        "SUID" : 1957,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1955",
+        "source" : "1865",
+        "target" : "1859",
+        "shared_name" : "Tm4 (LO) T5d",
+        "shared_interaction" : "LO",
+        "name" : "Tm4 (LO) T5d",
+        "interaction" : "LO",
+        "weight" : 22,
+        "SUID" : 1955,
+        "selected" : false,
+        "is_post" : 1
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1953",
+        "source" : "1863",
+        "target" : "1837",
+        "shared_name" : "T5b (LOP) LPT/LPi2a",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPT/LPi2a",
+        "interaction" : "LOP",
+        "weight" : 74,
+        "SUID" : 1953,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1951",
+        "source" : "1863",
+        "target" : "1835",
+        "shared_name" : "T5b (LOP) LPi2-1",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPi2-1",
+        "interaction" : "LOP",
+        "weight" : 51,
+        "SUID" : 1951,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1949",
+        "source" : "1863",
+        "target" : "1833",
+        "shared_name" : "T5b (LOP) H2",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) H2",
+        "interaction" : "LOP",
+        "weight" : 30,
+        "SUID" : 1949,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1947",
+        "source" : "1863",
+        "target" : "1831",
+        "shared_name" : "T5b (LOP) LPC1",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPC1",
+        "interaction" : "LOP",
+        "weight" : 30,
+        "SUID" : 1947,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1945",
+        "source" : "1863",
+        "target" : "1845",
+        "shared_name" : "T5b (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 28,
+        "SUID" : 1945,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1943",
+        "source" : "1863",
+        "target" : "1829",
+        "shared_name" : "T5b (LOP) Am1",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) Am1",
+        "interaction" : "LOP",
+        "weight" : 26,
+        "SUID" : 1943,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1941",
+        "source" : "1863",
+        "target" : "1827",
+        "shared_name" : "T5b (LOP) LPi2b",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPi2b",
+        "interaction" : "LOP",
+        "weight" : 14,
+        "SUID" : 1941,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1939",
+        "source" : "1863",
+        "target" : "1825",
+        "shared_name" : "T5b (LOP) LPLC1",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) LPLC1",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 1939,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1937",
+        "source" : "1863",
+        "target" : "1841",
+        "shared_name" : "T5b (LOP) TmY14",
+        "shared_interaction" : "LOP",
+        "name" : "T5b (LOP) TmY14",
+        "interaction" : "LOP",
+        "weight" : 7,
+        "SUID" : 1937,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1935",
+        "source" : "1861",
+        "target" : "1821",
+        "shared_name" : "T5c (LOP) LPi3-4",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPi3-4",
+        "interaction" : "LOP",
+        "weight" : 64,
+        "SUID" : 1935,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1933",
+        "source" : "1861",
+        "target" : "1815",
+        "shared_name" : "T5c (LOP) LPC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPC2",
+        "interaction" : "LOP",
+        "weight" : 29,
+        "SUID" : 1933,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1931",
+        "source" : "1861",
+        "target" : "1819",
+        "shared_name" : "T5c (LOP) LLPC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LLPC2",
+        "interaction" : "LOP",
+        "weight" : 28,
+        "SUID" : 1931,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1929",
+        "source" : "1861",
+        "target" : "1849",
+        "shared_name" : "T5c (LOP) Y11",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) Y11",
+        "interaction" : "LOP",
+        "weight" : 28,
+        "SUID" : 1929,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1927",
+        "source" : "1861",
+        "target" : "1817",
+        "shared_name" : "T5c (LOP) LPi34-12",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPi34-12",
+        "interaction" : "LOP",
+        "weight" : 27,
+        "SUID" : 1927,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1925",
+        "source" : "1861",
+        "target" : "1813",
+        "shared_name" : "T5c (LOP) Tlp13",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) Tlp13",
+        "interaction" : "LOP",
+        "weight" : 23,
+        "SUID" : 1925,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1923",
+        "source" : "1861",
+        "target" : "1809",
+        "shared_name" : "T5c (LOP) LPi3a",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPi3a",
+        "interaction" : "LOP",
+        "weight" : 19,
+        "SUID" : 1923,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1921",
+        "source" : "1861",
+        "target" : "1805",
+        "shared_name" : "T5c (LOP) Y3",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) Y3",
+        "interaction" : "LOP",
+        "weight" : 19,
+        "SUID" : 1921,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1919",
+        "source" : "1861",
+        "target" : "1845",
+        "shared_name" : "T5c (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 17,
+        "SUID" : 1919,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1917",
+        "source" : "1861",
+        "target" : "1795",
+        "shared_name" : "T5c (LOP) LPT3b",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) LPT3b",
+        "interaction" : "LOP",
+        "weight" : 14,
+        "SUID" : 1917,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1915",
+        "source" : "1861",
+        "target" : "1811",
+        "shared_name" : "T5c (LOP) TmY4",
+        "shared_interaction" : "LOP",
+        "name" : "T5c (LOP) TmY4",
+        "interaction" : "LOP",
+        "weight" : 10,
+        "SUID" : 1915,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1913",
+        "source" : "1859",
+        "target" : "1823",
+        "shared_name" : "T5d (LOP) VS",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) VS",
+        "interaction" : "LOP",
+        "weight" : 73,
+        "SUID" : 1913,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1911",
+        "source" : "1859",
+        "target" : "1803",
+        "shared_name" : "T5d (LOP) LPi4-3",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) LPi4-3",
+        "interaction" : "LOP",
+        "weight" : 42,
+        "SUID" : 1911,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1909",
+        "source" : "1859",
+        "target" : "1801",
+        "shared_name" : "T5d (LOP) LLPC3",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) LLPC3",
+        "interaction" : "LOP",
+        "weight" : 29,
+        "SUID" : 1909,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1907",
+        "source" : "1859",
+        "target" : "1799",
+        "shared_name" : "T5d (LOP) Tlp12",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) Tlp12",
+        "interaction" : "LOP",
+        "weight" : 29,
+        "SUID" : 1907,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1905",
+        "source" : "1859",
+        "target" : "1817",
+        "shared_name" : "T5d (LOP) LPi34-12",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) LPi34-12",
+        "interaction" : "LOP",
+        "weight" : 22,
+        "SUID" : 1905,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1903",
+        "source" : "1859",
+        "target" : "1845",
+        "shared_name" : "T5d (LOP) LPLC2",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) LPLC2",
+        "interaction" : "LOP",
+        "weight" : 20,
+        "SUID" : 1903,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1901",
+        "source" : "1859",
+        "target" : "1843",
+        "shared_name" : "T5d (LOP) Y12",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) Y12",
+        "interaction" : "LOP",
+        "weight" : 15,
+        "SUID" : 1901,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1899",
+        "source" : "1859",
+        "target" : "1793",
+        "shared_name" : "T5d (LOP) TmY5a",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) TmY5a",
+        "interaction" : "LOP",
+        "weight" : 14,
+        "SUID" : 1899,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1897",
+        "source" : "1859",
+        "target" : "1825",
+        "shared_name" : "T5d (LOP) LPLC1",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) LPLC1",
+        "interaction" : "LOP",
+        "weight" : 9,
+        "SUID" : 1897,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1895",
+        "source" : "1859",
+        "target" : "1811",
+        "shared_name" : "T5d (LOP) TmY4",
+        "shared_interaction" : "LOP",
+        "name" : "T5d (LOP) TmY4",
+        "interaction" : "LOP",
+        "weight" : 8,
+        "SUID" : 1895,
+        "selected" : false,
+        "is_post" : 0
+      },
+      "selected" : false
+    } ]
+  }
+}
